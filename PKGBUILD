@@ -1,4 +1,5 @@
 # Maintainer: Nazmul Hossain <nazmulridoy399@gmail.com>
+# from: git
 pkgname=partclone-nbd-git
 pkgver=r59.7bb76d5
 pkgrel=1

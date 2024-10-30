@@ -1,5 +1,5 @@
 pkgbase = partclone-nbd-git
-	pkgdesc = Export partclone/clonezilla images as block devices without restoring them
+	pkgdesc = Export partclone/clonezilla/Rescuezilla images as block devices without restoring them
 	pkgver = r59.7bb76d5
 	pkgrel = 1
 	url = https://github.com/allvpv/partclone-nbd

@@ -3,7 +3,7 @@
 pkgname=partclone-nbd-git
 pkgver=r59.7bb76d5
 pkgrel=1
-pkgdesc="Export partclone/clonezilla images as block devices without restoring them"
+pkgdesc="Export partclone/clonezilla/Rescuezilla images as block devices without restoring them"
 arch=('x86_64')
 license=('MIT')
 url="https://github.com/allvpv/partclone-nbd"

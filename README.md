@@ -12,6 +12,8 @@ This package provides a Network Block Device (NBD) server that allows you to mou
 - Accessing specific files from backup images
 
 ## Installation
+### Manual
+
 ```bash
 git clone https://aur.archlinux.org/partclone-nbd-git.git
 cd partclone-nbd-git

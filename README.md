@@ -30,7 +30,7 @@ yay -S  partclone-nbd-git
 #### With paru
 
 ```bash
-yay -S  partclone-nbd-git
+paru -S  partclone-nbd-git
 ```
 ### Dependencies
 

@@ -13,7 +13,7 @@ This package provides a Network Block Device (NBD) server that allows you to mou
 
 ## Installation
 ```bash
-git clone https://aur.archlinux.org/partclone-nbd-git.git
+git clone https://github.com/nazdridoy/partclone-nbd-git.git
 cd partclone-nbd-git
 makepkg -si
 ```

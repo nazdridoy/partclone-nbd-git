@@ -2,7 +2,7 @@
 # from: git
 pkgname=partclone-nbd-git
 pkgver=r59.7bb76d5
-pkgrel=2
+pkgrel=3
 pkgdesc="Export partclone/clonezilla/Rescuezilla images as block devices without restoring them"
 arch=('x86_64')
 license=('MIT')
